@@ -65,3 +65,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # crud-react-laravel
+npm install -g create-react-app 
+create-react-app crud-react 
+cd crud-react 
+npm install axios react-bootstrap bootstrap 
+npm install react-router-dom sweetalert2 --save
